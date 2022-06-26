@@ -1,0 +1,17 @@
+.background{
+      background-color: #d3d83e8c;
+}
+
+.btnEdit{
+    width: auto;
+}
+
+.formEdit{
+    display: flex;
+    justify-content: center;
+}
+
+.rowEdit{
+    height:100px; 
+    width: 400px;
+}
